@@ -1,7 +1,5 @@
 # tic-tac-toe
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+                                                  Shaik Mudassir
 ## Available Scripts
 
 In the project directory, you can run:
