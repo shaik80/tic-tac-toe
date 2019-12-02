@@ -1,5 +1,7 @@
 # tic-tac-toe
                                                   Shaik Mudassir
+This application is  built with React to play tic-tac-toe
+
 ## Available Scripts
 
 In the project directory, you can run:
